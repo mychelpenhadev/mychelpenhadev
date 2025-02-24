@@ -3,7 +3,7 @@
 
 **Desenvolvedor Back-end**
 
-Me chamo Mychel Penha, tenho 22 anos e sou natural do Cajari/MA. Concluí o ensino médio no Centro de Ensino Quincio Pinto Muniz, atualmente estou cursando Tecnologia da Informação e tambem cursando Análise e Desenvolvimento de Sistemas ."
+Me chamo Mychel Penha, tenho 22 anos e sou natural do Cajari/MA. Concluí o ensino médio no Centro de Ensino Quincio Pinto Muniz, atualmente estou cursando Tecnologia da Informação e Análise e Desenvolvimento de Sistemas ."
 
 <p align="left">
 
