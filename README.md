@@ -1,7 +1,7 @@
 ## Mychel Penha 
 # 👩🏻‍💻 Mychel Penha
 
-**´Desenvolvedor Back-end´**
+**Desenvolvedor Back-end**
 
 Me chamo Mychel Penha, tenho 22 anos e sou natural do Cajari/MA. Concluí o ensino médio no Centro de Ensino Quincio Pinto Muniz, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas . Sou apaixonada por tecnologia.".
 
