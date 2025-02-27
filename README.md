@@ -1,5 +1,5 @@
 ## Mychel Penha 
-# 👩🏻‍💻 Mychel Penha
+# 🧑💻 Mychel Penha
 
 **Desenvolvedor Back-end**
 
