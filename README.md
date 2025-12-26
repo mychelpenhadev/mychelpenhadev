@@ -1,117 +1,86 @@
-## Mychel Penha 
-# 🧑💻 Mychel Penha
 
-**Desenvolvedor Back-end**
+<h1 align="center">Olá! Eu sou Mychel Penha👋</h1>
 
-Me chamo Mychel Penha, tenho 22 anos e sou natural do Cajari/MA. Concluí o ensino médio no Centro de Ensino Quincio Pinto Muniz, atualmente estou cursando Análise e Desenvolvimento de Sistemas ."
+<h3 align="center">
+💻 Desenvolvedor de Software | PHP • Laravel • Docker • JavaScript • MySQL
+</h3>
 
-<p align="left">
-
- </a> 
-    <a href="https://github.com/mychelpenhadev?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mychelpenhadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/mychelpenhadev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mychelpenhadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mychel-penha-301802266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mychel.penha/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 GitHub Stats
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mychelpenhadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=mychelpenhadev&show_icons=true&theme=onedark&hide_border=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mychelpenhadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mychelpenhadev&layout=compact&theme=onedark&hide_border=true" 
   />
+</div>
 
+<br/>
+
+<!-- Card inferior -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mychelpenhadev&theme=github-compact&hide_border=true" 
+  />
+</div>
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor de software com grande interesse em tecnologia, educação e na criação de soluções que geram impacto real. Busco constantemente ampliar meus conhecimentos em diferentes áreas da tecnologia, explorando novas ferramentas, conceitos e boas práticas de desenvolvimento.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e estou em contínua evolução técnica e profissional. Valorizo o trabalho em equipe, a comunicação clara e acredito que o aprendizado contínuo é fundamental para a construção de soluções eficientes e de qualidade.
+
+📍 Brasil — Maranhão  
+💼 Aberto a oportunidades, freelas e parcerias
+
+---
+
+## 📫 Contato
+
+📧 **Email:** mychelcajari@gmail.com  
+💼 **LinkedIn:** [Mychel Penha](https://github.com/mychelpenhadev)
+
+---
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+    width="80%" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24" 
+  />
+</p>
+
+
+
